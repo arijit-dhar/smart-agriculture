@@ -1,4 +1,4 @@
-# smart-agriculture
+# smart-agriculture project
 Smart Agriculture Project for Cyber Physical Systems course.
 
 ### Hardware Pre-requisites
