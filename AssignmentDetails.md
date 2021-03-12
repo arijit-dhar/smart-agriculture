@@ -1,16 +1,16 @@
-# assignment_details
+# Assignment Details
 Details of the smart-agriculture assignment. 
 
 ### Project Title:
 Smart Agriculture.
 
 ### Project Description: 
-1. Develop IoT level 5 system for smart agriculture. The developed system should be able to  measure
-a. Soil Moisture level (Student 1: Chandan Kumar Samal)
-b. Environmental Temperature (Student 2: P V Murali)
-c. Water level of a tank (Student 3: Arijit Dhar)
-d. PH level of the soil (Student 4: DHEERAJ D KAMATH)
-e. Surrounding light (Student 5: DIELLE ANJALI COUTINHO)
+1. Develop IoT level 5 system for smart agriculture. The developed system should be able to measure:  
+a. Soil Moisture level (Student 1: Chandan Kumar Samal)\
+b. Environmental Temperature (Student 2: P V Murali)\
+c. Water level of a tank (Student 3: Arijit Dhar)\
+d. PH level of the soil (Student 4: Dheeraj D Kamath)\
+e. Surrounding light (Student 5: Dielle Anjali Coutinho)
 
 2. All the data collected should be stored on the cloud.
 3. Plants in the smart garden should be watered based on soil moisture level, Environmental Temperature and Water Level of a tank.
