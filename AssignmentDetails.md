@@ -30,6 +30,7 @@ e. Surrounding light (Student 5: Dielle Anjali Coutinho)
 * [Ambient Light Sensor 3 pin](https://www.electronicscomp.com/ldr-light-sensor-module-india?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x_o3Oog8AlarSK8qfNBAgZHpufpf_sQvhIHLIg1xKs_Hnf-wcUPVEoaAtV-EALw_wcB) - For detecting ambient light of the surrounding. 
 * [Ambient Light Sensor 4 pin](https://robu.in/product/lm393-photosensitive-light-dependent-control-sensor-module/) - <b> Do we need 3 pin OR, 4 pin LDR Module? </b>
 * [GSM Module](https://www.electronicscomp.com/sim800l-v2-5v-wireless-gsm-gprs-module-quad-band-with-antenna?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x-fi_tKI1Y1cgQ6LWnCPEQbEAzpfA_C7bFBDWx2DbYMkGKzmXEmnycaAq-GEALw_wcB) - For integrating the SIM card and sending messages. <b>Any specific Model? Did someone already tried using this one?</b>
+* [Relay Module](https://www.electronicscomp.com/4-channel-5v-relay-module-with-optocoupler?search=relay%20module) - Do we need a relay module? <b>Any specific Model? Did someone already tried using this one?</b>
 
 
 ### Questions: 
